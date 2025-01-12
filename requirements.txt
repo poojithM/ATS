@@ -7,4 +7,3 @@ python-dotenv
 langchain_community
 PyPDF2
 faiss-cpu
-google-generativeai
